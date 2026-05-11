@@ -1,0 +1,9 @@
+{
+  "name": "Gr\u0101matved\u012bbas \u0101rpakalpojumi uz\u0146\u0113mumiem",
+  "site": {
+    "installCommand": "npm install",
+    "buildCommand": "npm run build",
+    "serveCommand": "npm run dev",
+    "outputDirectory": "./dist"
+  }
+}
